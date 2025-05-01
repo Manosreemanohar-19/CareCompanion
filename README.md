@@ -1,7 +1,8 @@
 # CareCompanion
 <p align="center">
-  <img src="https://i.postimg.cc/9MGGpPQD/CareCompanion-Image.png" alt="CareCompanion Banner" style="width:100%; height:auto;" />
+  <img src="https://via.placeholder.com/800x400.png?text=CareCompanion+Banner" alt="CareCompanion Banner" style="width:100%; height:auto;" />
 </p>
+
 
 <h1 align="center">Hi, Welcome to CareCompanion 💊🤖</h1>
 
